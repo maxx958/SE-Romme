@@ -19,9 +19,10 @@ val minus ="-"
 
 val zusammen = plus + minus *3 + plus + minus *3 +plus
 
+/*
 def testfunktion(breite: Int){
     minus * breite
 
 }
-
 val test = testfunktion(4)
+*/
